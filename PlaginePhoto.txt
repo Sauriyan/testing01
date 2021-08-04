@@ -1,0 +1,7 @@
+Go to the site ->demo.oxwall.com
+Log in with user name ->demo
+Password ->7777
+Go to the plagine -> Photo
+Expected result -> Browse photo page is displayed 
+Actual result -> Browse photo page is displayed
+Final status -> pass  
