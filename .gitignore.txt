@@ -1,5 +1,8 @@
 fff.log
 log/
 file.log
+gitignore
+file5.txt
+
 
 
