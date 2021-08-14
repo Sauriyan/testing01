@@ -1,7 +1,7 @@
 new file to ignore
 
 ignore.txt
-
+*.txt
 
 file1.txf
 fff.log
