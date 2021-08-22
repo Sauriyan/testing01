@@ -1,4 +1,4 @@
-chnages new chnagesGo to the site ->demo.oxwall.com
+testing git fetch chnages new chnagesGo to the site ->demo.oxwall.com
 Log in with user name ->demo
 Password ->8888
 Go to the plagine -> Photo
