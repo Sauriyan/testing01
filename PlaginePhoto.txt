@@ -1,0 +1,7 @@
+testing git fetch chnages new chnagesGo to the site ->demo.oxwall.com
+Log in with user name ->demo
+Password ->8888
+Go to the plagine -> Photo
+Expected result -> Browse photo page is displayed 
+Actual result -> Browse photo page is displayed
+Final status -> pass  
